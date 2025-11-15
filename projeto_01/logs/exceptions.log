@@ -1,0 +1,10 @@
+[2025-09-23T01:17:23.043Z] ValidationError: video validation failed: descricao: Path `descricao` is required.
+    at Document.invalidate (C:\Users\leoch\OneDrive\Área de Trabalho\projeto_01\node_modules\mongoose\lib\document.js:3358:32)
+    at C:\Users\leoch\OneDrive\Área de Trabalho\projeto_01\node_modules\mongoose\lib\document.js:3119:17
+    at C:\Users\leoch\OneDrive\Área de Trabalho\projeto_01\node_modules\mongoose\lib\schemaType.js:1416:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+
+[2025-09-23T01:18:17.835Z] ReferenceError: print is not defined
+    at main (file:///C:/Users/leoch/OneDrive/%C3%81rea%20de%20Trabalho/projeto_01/index.js:86:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+

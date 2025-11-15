@@ -1,0 +1,22 @@
+{
+  "name": "projeto_01",
+  "version": "1.0.0",
+  "description": "Projeto 1 - Biblioteca de classes para streaming de vídeos usando Node.js e MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["nodejs", "mongodb", "streaming", "projeto1"],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "mongoose": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+
